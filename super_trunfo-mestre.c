@@ -3,7 +3,7 @@
 int main() {
     // introdução
     printf("*** SUPER TRUNFO ***\n");
-    printf("- Nível averntureiro\n");
+    printf("- Nível mestre\n");
     printf("- Registro de 2 cartas\n");
 
     // declaração das variáveis
